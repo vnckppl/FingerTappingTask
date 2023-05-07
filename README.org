@@ -1,0 +1,20 @@
+#+TITLE: Unimanual and Bimanual Finger Tapping Task
+* Reference
+This repository contains the Finger Tapping Task that was used to collect all data for the manuscript:
+
+*Delayed and More Variable Unimanual and Bimanual Finger Tapping in Alzheimer's Disease: Associations with Biomarkers and Applications for Classification*
+
+Vincent Koppelmans, PhD; Marit F.L. Ruitenberg, PhD; Sydney Y. Schaefer, PhD; Jace B. King, PhD; John M. Hoffman, MD; Amanda F. Mejia, PhD; Tolga Tasdizen, PhD; Kevin Duff, PhD, ABPP(CN)
+
+* Task
+This finger tapping task that is build with PsychoPy 3 has four conditions:
+- Right Hand Finger Tapping
+- Left Hand Finger Tapping
+- Synchronous Dual Tapping
+- Alternate Dual Tapping
+
+Each condition lasts 10 seconds. The four conditions are repeated 2 times (so each condition is completed 3 times in total).
+
+The task includes instructions with videos that are being shown prior to the test.
+
+Data is saved in .csv files.
