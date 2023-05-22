@@ -1,4 +1,6 @@
 #+TITLE: Unimanual and Bimanual Finger Tapping Task
+[[https://zenodo.org/badge/latestdoi/637517396][https://zenodo.org/badge/637517396.svg]]
+
 * Reference
 This repository contains the Finger Tapping Task that was used to collect all data for the manuscript:
 
